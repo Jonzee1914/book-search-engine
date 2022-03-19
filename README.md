@@ -23,7 +23,7 @@ Then simply <br/>
 
   
 ## Usage 
-This app is used o demonstrate the ability to adapt a RESTful API to GrpahQL
+This app is used to demonstrate the ability to adapted a RESTful API to GrpahQL.
 
 ##  License
 ![MIT License](https://img.shields.io/badge/mit-brightgreen) <br/>
