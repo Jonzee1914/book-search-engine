@@ -4,7 +4,7 @@ This app demonstrates the Google Books API converted from a RESTful API to a Gra
   
 ## Deployed version can be found at
 
-![](https://github.com/Jonzee1914/ /blob/main/ .gif?raw=true)
+![](https://github.com/Jonzee1914/book-search-engine/blob/main/book-engine-search.gif?raw=true)
 
 ## Table of Contents 
 * [Installation](#installation)
