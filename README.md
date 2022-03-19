@@ -2,7 +2,7 @@
 ### Description 
 This app demonstrates the Google Books API converted from a RESTful API to a GraphQL API built with Apollo Server instead. The original app was already set built to allow users to save book searches to a back end and was built using the MERN stack with a React for it's front end, MongoDB database, and Node and Express.
   
-## Deployed version can be found at
+## Deployed version can be found at https://greatest-book-search-engine.herokuapp.com/
 
 ![](https://github.com/Jonzee1914/book-search-engine/blob/main/book-engine-search.gif?raw=true)
 
